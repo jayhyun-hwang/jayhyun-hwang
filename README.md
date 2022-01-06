@@ -10,7 +10,7 @@ https://www.seeulater.site
 Description
 -----------
 
-seeULater is a book mark manager. You can add, delete, edit, add memo and share URLs you interested.
+seeULater is a book mark manager. You can add, delete, edit, add memo and share URLs you interested in.
 Inspired by the lack of good book mark manager with a remote store. Now, we can store and manage interesting pages easily. This project uses a remote repository(AWS ec2 and RDS), so you can access your bookmarks with your account from anywhere.
 
 * Add interesting pages URL
