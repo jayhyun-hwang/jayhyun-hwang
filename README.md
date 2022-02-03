@@ -1,9 +1,9 @@
 seeULater
 =========
 
-https://www.seeulater.site
+Service Website: https://www.seeulater.site
 
-[Chrome Web Store: seeULater](https://chrome.google.com/webstore/detail/seeulater/pemilclakldcfcijhimggelacjhkjogp/related?hl=ko)
+Chrome Web Store: https://chrome.google.com/webstore/detail/seeulater/pemilclakldcfcijhimggelacjhkjogp/related?hl=ko
 
 ![seeulater_demo.gif](https://github.com/jayhyun-hwang/seeULater/blob/main/seeulater_demo.gif)
 
