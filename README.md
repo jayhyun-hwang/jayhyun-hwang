@@ -5,7 +5,7 @@ Service Website: https://www.seeulater.site
 
 Chrome Web Store: [seeULater](https://chrome.google.com/webstore/detail/seeulater/pemilclakldcfcijhimggelacjhkjogp)
 
-![seeulater_demo.gif](https://github.com/jayhyun-hwang/seeULater/blob/main/seeulater_demo.gif)
+![seeulater_demo.gif](https://github.com/jayhyun-hwang/seeULater/blob/main/seeulater_demo_220207.gif)
 
 Description
 -----------
@@ -16,6 +16,7 @@ Inspired by the lack of good book mark manager with having remote stores, now we
 * Add interesting pages URL
 * View your favorites
 * Delete contents in your list
+* Create folders, and add contents to folder
 
 How to Install
 --------------
