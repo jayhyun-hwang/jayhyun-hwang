@@ -1,7 +1,7 @@
 seeULater
 =========
 
-Service Website: https://www.seeulater.site
+Service Website: https://www.seeulater.kr
 
 Chrome Web Store: [seeULater](https://chrome.google.com/webstore/detail/seeulater/pemilclakldcfcijhimggelacjhkjogp)
 
